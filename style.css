@@ -1,0 +1,22 @@
+.bg-custom{
+  background-color: red;
+}
+
+.box-shadow{
+  box-shadow: 5px 10px 10px -5px rgba(0,0,0,0.1);
+}
+
+.navbar-brand img{
+  height: 100px;
+}
+
+.box{
+  border: black solid;
+  margin: 3px;
+
+  width: auto;
+  padding: 5px;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
